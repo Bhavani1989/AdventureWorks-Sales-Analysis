@@ -185,12 +185,14 @@ This dashboard provides a comprehensive snapshot of business performance, enabli
 ## 🌎 Geographic Sales Dashboard 
 Overview
 The Geographic Sales Dashboard provides a regional breakdown of sales volume across different territories, allowing comparative analysis by country.
+
 Key Features
 - Sales Performance Map analyzing revenue distribution globally.
 - Regional Filters: Europe, North America, Pacific.
 - Top Cities & Countries by Sales.
 - Interactive Bubble Map for visualizing sales hotspots.
 - Sales Trends per Region comparing revenue over time.
+  
 Purpose
 This dashboard enables businesses to monitor international sales trends, optimize regional strategies, and visualize sales performance by territory.
 
@@ -200,20 +202,26 @@ This dashboard enables businesses to monitor international sales trends, optimiz
 ## 🛍️ Product Performance Dashboard 
 Overview
 This Power BI dashboard provides an interactive analysis of the AWC Logo Cap product's performance, including revenue, orders, profit, and returns. It enables stakeholders to track KPIs against targets and evaluate trends.
+
 Key Features
 - Dynamic Price Adjustment to analyze profit impact.
 - Monthly Performance Gauges comparing orders, revenue, and profit to set targets.
 - Trend Visualization showing total and adjusted profit over time.
 - Comprehensive Metrics including revenue, profit, orders, returns, and return percentage.
 - Interactive Navigation with tabs for Dashboard, Map, Product Detail, and Customer Insights.
+  
 Purpose
 This dashboard supports product performance monitoring, trend identification, and strategy optimization for better profitability.
+
+![Image](https://github.com/user-attachments/assets/230bc0cd-1aba-4f86-9a1f-7cfe9b13c0c7)
+
 
 ---
 
 ## 👥 Customer Analytics Dashboard 
 Overview
 This Power BI dashboard analyzes customer data, offering insights into unique customers, revenue per customer, and purchasing patterns. It helps businesses understand demographics, order distribution, and top buyers.
+
 Key Features
 - Customer Metrics displaying unique customers and revenue per customer.
 - Trend Analysis showcasing total customers and revenue per customer from 2020 to 2022.
@@ -222,8 +230,12 @@ Key Features
 - Breakdown by Occupation (Management, Professional, Skilled Manual).
 - Top Customer Details highlighting high revenue-generating individuals.
 - Dynamic Filtering allowing date-based analysis.
+  
 Purpose
 This dashboard enables businesses to identify key customers, analyze revenue trends, and tailor strategies for enhanced engagement and profitability.
+
+
+
 
 ---
 
