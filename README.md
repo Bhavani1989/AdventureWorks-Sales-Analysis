@@ -158,17 +158,17 @@ Orders: 25.2K
 Return Rate: 2.2%
 
 📈 **Visuals**:
-Weekly Revenue Trend with forecast
+- Weekly Revenue Trend with forecast
 
-Monthly Comparisons for revenue, orders, and returns
+- Monthly Comparisons for revenue, orders, and returns
 
-Top 10 Products by orders and return %
+- Top 10 Products by orders and return %
 
-Orders by Product Category (Accessories, Bikes, Clothing)
+- Orders by Product Category (Accessories, Bikes, Clothing)
 
-Monthly Performance Metrics – Revenue, orders, returns, and % changes.
+- Monthly Performance Metrics – Revenue, orders, returns, and % changes.
 
-Most Ordered Product,  Most Returned Product 
+- Most Ordered Product,  Most Returned Product 
 
 
 📌 **Slicer Panels**:
