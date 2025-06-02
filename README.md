@@ -265,3 +265,14 @@ This dashboard enables businesses to identify key customers, analyze revenue tre
 - Deploy the report to Power BI Service for automated refresh and sharing.
 
 ---
+---
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 🙌 Acknowledgments
+
+- Maven Analytics Learning & Development team
+- Power BI Community for DAX and visualization best practices
+
+---
