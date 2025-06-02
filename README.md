@@ -194,6 +194,8 @@ Key Features
 Purpose
 This dashboard enables businesses to monitor international sales trends, optimize regional strategies, and visualize sales performance by territory.
 
+![Image](https://github.com/user-attachments/assets/224841a0-da04-4d19-928f-7344e570bc0c)
+
 ---
 ## 🛍️ Product Performance Dashboard 
 Overview
