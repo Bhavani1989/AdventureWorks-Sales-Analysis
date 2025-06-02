@@ -143,7 +143,7 @@ The model follows a **one-to-many (1:*) relationship** pattern from each dimensi
 
 ---
 
-## Adventure Works Dashboard Overview
+## 📊 Adventure Works Dashboard Overview
 Overview
 The Main Dashboard serves as the central hub for analyzing sales performance, product trends, and return rates. It provides a high-level summary of key metrics, interactive slicers, and navigation options for deeper insights.
 
@@ -180,7 +180,7 @@ Purpose
 This dashboard provides a comprehensive snapshot of business performance, enabling stakeholders to track KPIs, analyze trends, and navigate seamlessly between different analytical views.
 
 ---
-## 🗺️ Geographic Sales Dashboard 
+## 🌎 Geographic Sales Dashboard 
 Overview
 The Geographic Sales Dashboard provides a regional breakdown of sales volume across different territories, allowing comparative analysis by country.
 Key Features
@@ -193,7 +193,7 @@ Purpose
 This dashboard enables businesses to monitor international sales trends, optimize regional strategies, and visualize sales performance by territory.
 
 ---
-## 📊 Product Performance Dashboard 
+## 🛍️ Product Performance Dashboard 
 Overview
 This Power BI dashboard provides an interactive analysis of the AWC Logo Cap product's performance, including revenue, orders, profit, and returns. It enables stakeholders to track KPIs against targets and evaluate trends.
 Key Features
