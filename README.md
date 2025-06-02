@@ -144,7 +144,8 @@ The model follows a **one-to-many (1:*) relationship** pattern from each dimensi
 ---
 
 ## 📊 Adventure Works Dashboard Overview
-Overview
+🔍 Overview
+
 The Main Dashboard serves as the central hub for analyzing sales performance, product trends, and return rates. It provides a high-level summary of key metrics, interactive slicers, and navigation options for deeper insights.
 
 📌 Key KPIs:
@@ -176,41 +177,48 @@ Most Ordered Product,  Most Returned Product
 📌 Page Navigations:
 - Tabs at the bottom for switching between Dashboard, Map, Product Detail, and Customer Insights.
 
-Purpose
+🎯 Purpose
+
 This dashboard provides a comprehensive snapshot of business performance, enabling stakeholders to track KPIs, analyze trends, and navigate seamlessly between different analytical views.
 
  ![Image](https://github.com/user-attachments/assets/5199494e-12a4-4e30-b5f4-07a7235106f9)
  
 ---
 ## 🌎 Geographic Sales Dashboard 
-Overview
+🔍 Overview
+
 The Geographic Sales Dashboard provides a regional breakdown of sales volume across different territories, allowing comparative analysis by country.
 
 Key Features
+
 - Sales Performance Map analyzing revenue distribution globally.
 - Regional Filters: Europe, North America, Pacific.
 - Top Cities & Countries by Sales.
 - Interactive Bubble Map for visualizing sales hotspots.
 - Sales Trends per Region comparing revenue over time.
   
-Purpose
+🎯 Purpose
+
 This dashboard enables businesses to monitor international sales trends, optimize regional strategies, and visualize sales performance by territory.
 
 ![Image](https://github.com/user-attachments/assets/224841a0-da04-4d19-928f-7344e570bc0c)
 
 ---
 ## 🛍️ Product Performance Dashboard 
-Overview
+🔍 Overview
+
 This Power BI dashboard provides an interactive analysis of the AWC Logo Cap product's performance, including revenue, orders, profit, and returns. It enables stakeholders to track KPIs against targets and evaluate trends.
 
 Key Features
+
 - Dynamic Price Adjustment to analyze profit impact.
 - Monthly Performance Gauges comparing orders, revenue, and profit to set targets.
 - Trend Visualization showing total and adjusted profit over time.
 - Comprehensive Metrics including revenue, profit, orders, returns, and return percentage.
 - Interactive Navigation with tabs for Dashboard, Map, Product Detail, and Customer Insights.
   
-Purpose
+🎯 Purpose
+
 This dashboard supports product performance monitoring, trend identification, and strategy optimization for better profitability.
 
 ![Image](https://github.com/user-attachments/assets/230bc0cd-1aba-4f86-9a1f-7cfe9b13c0c7)
@@ -219,10 +227,12 @@ This dashboard supports product performance monitoring, trend identification, an
 ---
 
 ## 👥 Customer Analytics Dashboard 
-Overview
+🔍 Overview 
+
 This Power BI dashboard analyzes customer data, offering insights into unique customers, revenue per customer, and purchasing patterns. It helps businesses understand demographics, order distribution, and top buyers.
 
 Key Features
+
 - Customer Metrics displaying unique customers and revenue per customer.
 - Trend Analysis showcasing total customers and revenue per customer from 2020 to 2022.
 - Order Distribution Insights:
@@ -231,10 +241,11 @@ Key Features
 - Top Customer Details highlighting high revenue-generating individuals.
 - Dynamic Filtering allowing date-based analysis.
   
-Purpose
+🎯 Purpose
+
 This dashboard enables businesses to identify key customers, analyze revenue trends, and tailor strategies for enhanced engagement and profitability.
 
-
+![Image](https://github.com/user-attachments/assets/06b10df4-eb79-4fd1-a5c4-6c4af44d59aa)
 
 
 ---
