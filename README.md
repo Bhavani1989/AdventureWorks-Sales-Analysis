@@ -179,6 +179,8 @@ Most Ordered Product,  Most Returned Product
 Purpose
 This dashboard provides a comprehensive snapshot of business performance, enabling stakeholders to track KPIs, analyze trends, and navigate seamlessly between different analytical views.
 
+ ![Image](https://github.com/user-attachments/assets/5199494e-12a4-4e30-b5f4-07a7235106f9)
+ 
 ---
 ## 🌎 Geographic Sales Dashboard 
 Overview
