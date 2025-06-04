@@ -269,6 +269,8 @@ This dashboard enables businesses to identify key customers, analyze revenue tre
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+---
+
 ## 🙌 Acknowledgments
 
 - Maven Analytics Learning & Development team
